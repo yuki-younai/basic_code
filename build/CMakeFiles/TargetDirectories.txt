@@ -1,0 +1,3 @@
+C:/Users/yuki_younai/Desktop/VScode_c/windows_cmake/build/CMakeFiles/my_cmake_exe.dir
+C:/Users/yuki_younai/Desktop/VScode_c/windows_cmake/build/CMakeFiles/edit_cache.dir
+C:/Users/yuki_younai/Desktop/VScode_c/windows_cmake/build/CMakeFiles/rebuild_cache.dir

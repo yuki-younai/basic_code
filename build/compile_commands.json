@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/yuki_younai/Desktop/VScode_c/windows_cmake/build",
+  "command": "D:\\environment\\minggw64\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake_exe.dir/includes_CXX.rsp  -Wall -g -o CMakeFiles\\my_cmake_exe.dir\\src\\Gun.cpp.obj -c C:\\Users\\yuki_younai\\Desktop\\VScode_c\\windows_cmake\\src\\Gun.cpp",
+  "file": "C:/Users/yuki_younai/Desktop/VScode_c/windows_cmake/src/Gun.cpp",
+  "output": "CMakeFiles/my_cmake_exe.dir/src/Gun.cpp.obj"
+},
+{
+  "directory": "C:/Users/yuki_younai/Desktop/VScode_c/windows_cmake/build",
+  "command": "D:\\environment\\minggw64\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake_exe.dir/includes_CXX.rsp  -Wall -g -o CMakeFiles\\my_cmake_exe.dir\\src\\Solider.cpp.obj -c C:\\Users\\yuki_younai\\Desktop\\VScode_c\\windows_cmake\\src\\Solider.cpp",
+  "file": "C:/Users/yuki_younai/Desktop/VScode_c/windows_cmake/src/Solider.cpp",
+  "output": "CMakeFiles/my_cmake_exe.dir/src/Solider.cpp.obj"
+},
+{
+  "directory": "C:/Users/yuki_younai/Desktop/VScode_c/windows_cmake/build",
+  "command": "D:\\environment\\minggw64\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake_exe.dir/includes_CXX.rsp  -Wall -g -o CMakeFiles\\my_cmake_exe.dir\\main.cpp.obj -c C:\\Users\\yuki_younai\\Desktop\\VScode_c\\windows_cmake\\main.cpp",
+  "file": "C:/Users/yuki_younai/Desktop/VScode_c/windows_cmake/main.cpp",
+  "output": "CMakeFiles/my_cmake_exe.dir/main.cpp.obj"
+}
+]
